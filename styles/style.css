@@ -1,0 +1,148 @@
+body {
+    margin: 0;
+}
+h1 {
+    font-size: 40px;
+}
+p.baseline{
+    font-size: 25px;
+}
+.section2{
+    margin-top: 0;
+    background-image: l-gradient(to right, #F9F1F0, rgb(251, 177, 5)); 
+}
+.w3-margin1{
+    margin-left: 25vw;
+}
+.w3-margin2{
+    margin-left: 30vw;
+}
+.w3-transparent{
+    background-color: transparent;
+}
+.w3-content-margin {
+    margin-left:5vw;
+    margin-right: 5vw;
+}
+.w3-content-margin2 {
+    margin-left:5vw;
+    margin-right: 5vw;
+}
+.w3-content-margin3 {
+    margin-left:10vw;
+    margin-right: 10vw;
+}
+.w3-bar {
+    padding-top: 10px;
+}
+.w3-kanit-bold {
+    font-family:kanitbold;
+}
+.w3-kanit-black {
+    font-family:kanitblack;
+}
+.w3-kanit-medium {
+    font-family:kanitmedium;
+}
+.w3-kanit-light {
+    font-family:kanitlight;
+}
+.w3-kanit-bold-italic {
+    font-family:kanitbolditalic;
+}
+.w3-kanit-medium-italic {
+    font-family:kanitmediumitalic;
+}
+.w3-kanit-light-italic {
+    font-family:kanitlightitalic;
+}
+@font-face {
+    font-family: kanitblack;
+    src: url(../Kanit/Kanit-Black.ttf);
+}
+@font-face {
+    font-family: kanitbold;
+    src: url(../Kanit/Kanit-Bold.ttf);
+}
+@font-face {
+    font-family: kanitmedium;
+    src: url(../Kanit/Kanit-Medium.ttf);
+}
+@font-face {
+    font-family: kanitlight;
+    src: url(../Kanit/Kanit-Light.ttf);
+}
+@font-face {
+    font-family: kanitbolditalic;
+    src: url(../Kanit/Kanit-BoldItalic.ttf);
+}
+@font-face {
+    font-family: kanitmediumitalic;
+    src: url(../Kanit/Kanit-MediumItalic.ttf);
+}
+@font-face {
+    font-family: kanitlightitalic;
+    src: url(../Kanit/Kanit-LightItalic.ttf);
+}
+.section1{
+    background-image: url(../images/background.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 0;
+}
+.w3-cream {
+    background-color: #F9F1F0;
+    color: black;
+}
+.w3-rose-quartz {
+    background-color: #fadcd9;
+    color: black;
+}
+.w3-dusty-rose {
+    background-color: #fadcd9;
+    color: black;
+}
+.w3-coral {
+    background-color: #f79489;
+    color: white;
+}
+.w3-background {
+    color: black;
+    background-color: #edadbe;
+}
+.custom-shape-divider-bottom-1663163269 {
+width: 100%;
+overflow: hidden;
+line-height: 0;
+transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1663163269 svg {
+position: relative;
+display: block;
+width: calc(138% + 1.3px);
+height: 191px;
+}
+
+.custom-shape-divider-bottom-1663163269 .shape-fill {
+fill: #FADCD9;
+}
+.custom-shape-divider-top-1663191937 {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1663191937 svg {
+    position: relative;
+    display: block;
+    width: calc(129% + 1.3px);
+    height: 83px;
+}
+
+.custom-shape-divider-top-1663191937 .shape-fill {
+    fill: #FADCD9;
+}
